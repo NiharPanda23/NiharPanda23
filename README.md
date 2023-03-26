@@ -19,11 +19,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NiharPanda23&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NiharPanda23&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NiharPanda23&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NiharPanda23&icon=7&color=0)](https://visitcount.itsvg.in)
