@@ -13,7 +13,38 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nihar-ranjanpanda) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+<p align="left">
+    <img src=https://cdn-icons-png.flaticon.com/512/1051/1051277.png alt="HTML" width="40" height="40">
+    <img src=https://cdn-icons-png.flaticon.com/512/732/732190.png alt="CSS" width="40" height="40">
+    <img src=https://cdn-icons-png.flaticon.com/512/5968/5968292.png alt="JS" width="40" height="40">
+    <img src=https://cdn-icons-png.flaticon.com/512/5968/5968350.png alt="Python" width="40" height="40">
+    <img src=https://cdn-icons-png.flaticon.com/512/873/873120.png alt="heroku" width="40" height="40">
+    <img src=https://cdn-icons-png.flaticon.com/512/873/873117.png alt="Google cloud" width="40" height="40">
+    <img src=https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png alt="Bootstrap" width="50" height="40">
+    <img src=https://nodejs.org/static/images/logo.svg alt="nodejs" width="40" height="40" >
+    <img src=https://img.icons8.com/ios/256/express-js.png alt="express-js" width="40" height="40" style="background-color:white;">
+    <img src=https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png alt="React-js" width="40" height="40">
+    <img src=https://img.icons8.com/color/256/npm.png alt="NPM" width="40" height="40">
+    <img src=https://img.icons8.com/ios/256/jquery.png alt="jquery" width="40" height="40" style="background-color:white;">
+    <img src=https://img.icons8.com/fluency/256/mysql-logo.png alt="mysql" width="40" height="40">
+    <img src=https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto-format%252Ccompress alt="mongodb" width="60" height="40" style="background-color:white;">
+    <img src=https://img.icons8.com/fluency/256/canva.png alt="canva" width="40" height="40">
+    <img src=https://cdn-icons-png.flaticon.com/512/4401/4401391.png alt="dribble" width="40" height="40">
+    <img src=https://cdn-icons-png.flaticon.com/512/5968/5968705.png alt="figma" width="40" height="40">
+    <img src=https://cdn-icons-png.flaticon.com/512/5968/5968514.png alt="LR" width="40" height="40">
+    <img src=https://cdn-icons-png.flaticon.com/512/5611/5611129.png alt="xd" width="40" height="40">
+    <img src=https://cdn-icons-png.flaticon.com/512/5968/5968520.png alt="ps" width="40" height="40">
+    <img src=https://d33wubrfki0l68.cloudfront.net/377d727c8d878832f20e08939889a58bdff0b3f2/63787/img/babel.svg alt="babel" width="40" height="40" style="background-color:white;">
+    <img src=https://cdn-icons-png.flaticon.com/512/6124/6124995.png alt="Linux" width="40" height="40">
+    <img src=https://img.icons8.com/color/256/eslint.png alt="Es lint" width="40" height="40" style="background-color:white;">
+    <img src=https://cdn-icons-png.flaticon.com/512/2111/2111425.png alt="github" width="40" height="40" style="background-color:white;">
+    <img src=https://img.icons8.com/color/256/git.png alt="git" width="40" height="40">
+    <img src=https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png alt="git" width="40" height="40">
+    <img src=https://img.icons8.com/color/256/firebase.png alt="git" width="40" height="40">
+    <img src=https://cdn-icons-png.flaticon.com/512/726/726056.png alt="pf" width="40" height="40" style="background-color:white;">
+</p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NiharPanda23&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NiharPanda23&theme=highcontrast&hide_border=true)<br/>
