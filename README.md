@@ -22,12 +22,12 @@
     <img src=https://cdn-icons-png.flaticon.com/512/873/873117.png alt="Google cloud" width="40" height="40">
     <img src=https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png alt="Bootstrap" width="50" height="40">
     <img src=https://nodejs.org/static/images/logo.svg alt="nodejs" width="40" height="40" >
-    <img src=https://img.icons8.com/ios/256/express-js.png alt="express-js" width="40" height="40" style="background-color:white;">
-    <img src=https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png alt="React-js" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express-js" width="40" height="40">
+    <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt="React-js" width="40" height="40">
     <img src=https://img.icons8.com/color/256/npm.png alt="NPM" width="40" height="40">
     <img src=https://img.icons8.com/ios/256/jquery.png alt="jquery" width="40" height="40" style="background-color:white;">
     <img src=https://img.icons8.com/fluency/256/mysql-logo.png alt="mysql" width="40" height="40">
-    <img src=https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto-format%252Ccompress alt="mongodb" width="60" height="40" style="background-color:white;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="40" style="background-color:white;">
     <img src=https://img.icons8.com/fluency/256/canva.png alt="canva" width="40" height="40">
     <img src=https://cdn-icons-png.flaticon.com/512/4401/4401391.png alt="dribble" width="40" height="40">
     <img src=https://cdn-icons-png.flaticon.com/512/5968/5968705.png alt="figma" width="40" height="40">
