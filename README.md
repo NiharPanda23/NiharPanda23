@@ -224,14 +224,18 @@
 
 <hr />
 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<hr />
+
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
 <br />
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
-
 ![](https://img.shields.io/github/followers/NiharPanda23?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
-
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{NiharPanda23}1212%2Fhit-counter)
+[![](https://visitcount.itsvg.in/api?id=NiharPanda23&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!--  ## 💰 You can help me by Donating
 
