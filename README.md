@@ -1,9 +1,9 @@
 ### Hi ther, I'm Nihar 👋
 
 - 💫 About Me:
-- :zap: Web developer with a passion for building responsive and user-friendly web applications
-- 🌱 I’m addicted to learning and growing every day<br>
-- :earth_asia: I am currently sharing a little bit of my knowledge to the world through my blogs
+- :zap: Web developer with a passion for building responsive and user-friendly web applications.
+- 🌱 I’m addicted to learning and growing every day.<br>
+- :earth_asia: I am currently sharing a little bit of my knowledge to the world. <!-- - through my blogs -->
 - :wink: Fun fact: Ethan Marcotte first introduced responsive design in 2010. The goal of responsive web design is to create a website that can be accessed from any device. A responsive site will have columns and rows that scale to fit the viewing size, making it easy for you to read the content without zooming in or out. 
 - 📫 How to find me:
   - :office: [LinkedIn](https://www.linkedin.com/in/nihar-ranjanpanda/)
