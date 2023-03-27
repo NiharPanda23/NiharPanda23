@@ -5,9 +5,6 @@
 - 🌱 I’m addicted to learning and growing every day.<br>
 - :earth_asia: I am currently sharing a little bit of my knowledge to the world. <!-- - through my blogs -->
 - :wink: Fun fact: Ethan Marcotte first introduced responsive design in 2010. The goal of responsive web design is to create a website that can be accessed from any device. A responsive site will have columns and rows that scale to fit the viewing size, making it easy for you to read the content without zooming in or out. 
-- 📫 How to find me:
-  - :office: [LinkedIn](https://www.linkedin.com/in/nihar-ranjanpanda/)
-  - :email: [E-mail](https://www.gmail.com/nihar2097@gmail.com/)
 
 # 📊 GitHub Stats:
 [![Nihar's github stats](https://github-readme-stats.vercel.app/api?username=NiharPanda23&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)<br>
@@ -27,7 +24,7 @@
 
 
 
-## 🌏 **CONNECT WITH ME**
+## 📫 **CONNECT WITH ME**
 
 <!-- <a href="https://www.instagram.com/coding.stella"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
