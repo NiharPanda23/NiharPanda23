@@ -1,4 +1,6 @@
-### Hi there. I'm Nihar 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  I'm Nihar 👋
 
 - 💫 About Me:
 - :zap: Web developer with a passion for building responsive and user-friendly web applications
