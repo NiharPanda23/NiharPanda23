@@ -12,8 +12,8 @@
 # 📊 GitHub Stats:
 [![Nihar's github stats](https://github-readme-stats.vercel.app/api?username=NiharPanda23&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NiharPanda23&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NiharPanda23&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NiharPanda23&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharPanda23&theme=radical)
 
 
 <!-- ## 🏆 **GITHUB TROPHY**
@@ -188,6 +188,12 @@
 
 <!-- ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) -->
 <!-- ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) -->
+
+## 💻 **TERMINALS**
+
+[![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white "Hyper")][repo]
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "git")][repo]
+[![Window Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)][repo]
 
 ## ☃️ **MY LEARNING RESOURCES**
 
