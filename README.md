@@ -1,6 +1,6 @@
 ### Hi ther, I'm Nihar 👋
 
-- 💫 About Me:
+# 💫 About Me:
 - :zap: Web developer with a passion for building responsive and user-friendly web applications.
 - 🌱 I’m addicted to learning and growing every day.<br>
 - :earth_asia: I am currently sharing a little bit of my knowledge to the world. <!-- - through my blogs -->
