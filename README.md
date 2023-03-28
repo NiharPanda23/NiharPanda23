@@ -1,6 +1,10 @@
-Hey! Nice to see you. 👋
+## Hey! Nice to see you. 👋
+
+Welcome to my page!
+I'm Nihar, Fullstack developer from :india: India
 
 ### 💫 About Me:
+
 - :zap: Web developer with a passion for building responsive and user-friendly web applications.
 - 🌱 I’m addicted to learning and growing every day.<br>
 - :earth_asia: I am currently sharing a little bit of my knowledge to the world. <!-- - through my blogs -->
