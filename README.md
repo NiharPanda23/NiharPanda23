@@ -1,7 +1,7 @@
 ## Hey! Nice to see you. 👋
 
 Welcome to my page!
-I'm Nihar, Fullstack developer from <span class="fp fp-md in"></span> India
+I'm Nihar, Fullstack developer from India
 
 ### 💫 About Me:
 
