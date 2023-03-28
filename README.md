@@ -225,7 +225,7 @@ I'm Nihar, Fullstack Web developer from India
 
 <hr />
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <hr />
 
