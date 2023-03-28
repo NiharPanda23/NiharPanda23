@@ -1,4 +1,4 @@
-Hi there, I'm Nihar 👋
+Hey! Nice to see you. 👋
 
 ### 💫 About Me:
 - :zap: Web developer with a passion for building responsive and user-friendly web applications.
