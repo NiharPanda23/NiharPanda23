@@ -96,7 +96,11 @@ I'm Nihar, a passionate full-stack web developer from [Your Location], crafting 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")][repo]
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")][repo]
-  
+![Authentication Authorization](https://img.shields.io/badge/Auth-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge)
+![MongoDB Aggregation](https://img.shields.io/badge/MongoDB%20Aggregation-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![EJS](https://img.shields.io/badge/EJS-2D2D2D?logo=ejs&logoColor=white&style=for-the-badge)
+![Passport](https://img.shields.io/badge/Passport-34E27A?logo=passport&logoColor=white&style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-47A248?logo=mongoose&logoColor=white&style=for-the-badge)
 
 ## 🎨 UI/UX Design Tools
 
