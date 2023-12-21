@@ -1,7 +1,7 @@
 ## Hey! Nice to see you. 👋
 
 Welcome to my page!
-I'm Nihar, a passionate full-stack web developer from [Your Location], crafting digital experiences with a blend of creativity and functionality. Welcome to my GitHub playground! 🚀
+I'm Nihar, a passionate full-stack web developer from India, crafting digital experiences with a blend of creativity and functionality. Welcome to my GitHub playground! 🚀
 
 ## About Me
 
