@@ -1,17 +1,22 @@
 ## Hey! Nice to see you. 👋
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
+
 Welcome to my page!
 I'm Nihar, a passionate full-stack web developer from India, crafting digital experiences with a blend of creativity and functionality. Welcome to my GitHub playground! 🚀
 
 ## About Me
 
-- 🚀 **Passionate Developer:** I love turning ideas into code and building innovative solutions that make a positive impact.
+<img style="margin-left: 10px" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500" height="300">
+
+- 🚀 **Passionate Developer:** I love turning ideas into code and building innovative solutions that make a positive impact. 
 
 - 🎨 **UI/UX Enthusiast:** I'm passionate about creating seamless and intuitive user experiences, and I enjoy exploring the intersection of design and development.
 
 - 🌐 **Full-Stack Explorer:** From the front-end magic with React to the server-side wonders of Node.js, I explore the full spectrum of web development.
 
 - 🤝 **Collaboration Advocate:** I believe in the power of collaboration and enjoy working with diverse teams to bring ideas to life. 
+
 
 ### 📊 GitHub Stats:
 ![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niharpanda23&show_icons=true&theme=radical)<br/>
