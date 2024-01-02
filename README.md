@@ -7,7 +7,7 @@ I'm Nihar, a passionate full-stack web developer from India, crafting digital ex
 
 ## About Me
 
-<img style="margin-left: 10px" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400" height="300">
+<img style="margin-left: 10px" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="450" height="300">
 
 - 🚀 **Passionate Developer:** I love turning ideas into code and building innovative solutions that make a positive impact. 
 
