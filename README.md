@@ -555,33 +555,11 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharPanda23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
 
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
-<div align="center">
-
-## 📈 **Contribution Graph**
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NiharPanda23&custom_title=Nihar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
-
-<br/>
-
-<!-- Trophies Section -->
-<div align="center">
-
-## 🏆 **GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=NiharPanda23&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
 
 <!-- Projects Showcase -->
 <div align="center">
