@@ -1,4 +1,4 @@
-## Hey! Nice to see you. 👋
+<!-- ## Hey! Nice to see you. 👋
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 
@@ -22,7 +22,7 @@ I'm Nihar, a passionate full-stack web developer from India, crafting digital ex
 ![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niharpanda23&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NiharPanda23&theme=radical&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NiharPanda23&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharPanda23&theme=radical)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharPanda23&theme=radical)
 
 
 <!-- ## 🏆 **GITHUB TROPHY**
@@ -36,7 +36,7 @@ I'm Nihar, a passionate full-stack web developer from India, crafting digital ex
 
 
 
-### 📫 **CONNECT WITH ME**
+<!-- ### 📫 **CONNECT WITH ME**
 
 <!-- <a href="https://www.instagram.com/coding.stella"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
@@ -44,7 +44,7 @@ I'm Nihar, a passionate full-stack web developer from India, crafting digital ex
 <a href="https://www.youtube.com/@codingstella"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a> -->
-<a href="mailto:nihar2097@gmail.com"> 
+<!-- <a href="mailto:nihar2097@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
 <a href="https://www.github.com/NiharPanda23"> 
@@ -56,13 +56,13 @@ I'm Nihar, a passionate full-stack web developer from India, crafting digital ex
 <!-- <a href="https://www.facebook.com/profile.php?=100087370156118"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a> -->
-<a  href="https://www.linkedin.com/in/nihar-ranjanpanda/)">
+<!-- <a  href="https://www.linkedin.com/in/nihar-ranjanpanda/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <!-- <a href="https://codepen.io/codingstella"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a> -->
-<br />
+<!-- <br />
 
 
 ## 🕸️ Frontend Technologies
@@ -250,7 +250,7 @@ Exploring interests in:
 <!-- [![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE "Insomnia")][repo]
 [![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)][repo] -->
 
-## ☁️ **CLOUDS**
+<!-- ## ☁️ **CLOUDS**
 
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")][repo]
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")][repo]
@@ -259,7 +259,7 @@ Exploring interests in:
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
 [![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")][repo] -->
 
-## 📄 **CODE EDITOR & IDES**
+<!-- ## 📄 **CODE EDITOR & IDES**
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white "Atom")][repo]
@@ -294,7 +294,7 @@ Exploring interests in:
 <!-- ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) -->
 <!-- ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) -->
 
-## 💻 **TERMINALS**
+<!-- ## 💻 **TERMINALS**
 
 [![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white "Hyper")][repo]
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "git")][repo]
@@ -306,7 +306,7 @@ Exploring interests in:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)][mdn]
 <!-- [![DigitalOcean](https://img.shields.io/badge/DO_Community-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)][doc] -->
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)][fcc]
+<!-- [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)][fcc]
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)][gog]
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)][quora]
@@ -314,7 +314,7 @@ Exploring interests in:
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 <!--[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]-->
 
-[medium]: https://medium.com/
+<!-- [medium]: https://medium.com/
 [github]: https://github.com/
 [google]: https://www.google.com
 [mdn]: https://developer.mozilla.org/en-US/
@@ -421,6 +421,304 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername&style=for-the-badge)](https://github.com/YourUsername)-->
 
 
+<!-- Animated Header -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e8,50:b678c4,100:eaafc8&height=300&section=header&text=NIHAR%20PANDA&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=40&desc=✨%20Full%20Stack%20Developer%20|%20UI/UX%20Designer%20|%20Digital%20Creator%20✨&descSize=12&descAlignY=60" />
+</div>
 
+<!-- Dynamic Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Nihar+%F0%9F%91%8B+Welcome+to+my+digital+space!;Full+Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Building+amazing+web+experiences+with+modern+tech;Always+learning%2C+always+growing%2C+always+coding+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
+<br/>
 
+<!-- Beautiful About Section -->
+<div align="center">
+
+## 🌟 **About Me**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 **Who Am I?**
+
+**👨‍💻 Name:** Nihar Panda  
+**📍 Location:** Hyderabad, India 🇮🇳  
+**💼 Role:** Full Stack Developer  
+
+**❤️ Passionate About:**
+- Clean Code
+- User Experience  
+- Innovation
+- Problem Solving
+
+**🌱 Currently Learning:**
+- Advanced React Patterns
+- Web3 & Blockchain
+- AI/ML Integration
+
+**⚡ Fun Fact:** I debug with console.log and I'm proud of it! 😄
+
+</td>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400px" alt="Coding Gif"/>
+
+### 🎯 **Quick Stats**
+- 🔭 Currently working on **Next.js Projects**
+- 🌱 Learning **Blockchain Development**  
+- 💬 Ask me about **React, Node.js, UI/UX**
+- ⚡ Fun fact: **Coffee + Code = Magic** ☕
+- 📫 Reach me: **nihar2097@gmail.com**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Tech Stack with Modern Design -->
+<div align="center">
+
+## 💻 **Tech Stack & Tools**
+
+### 🎨 **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,materialui" />
+</p>
+
+### ⚙️ **Backend Development** 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql,firebase,postman" />
+</p>
+
+### 🛠️ **Tools & Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,linux,docker,heroku,gcp" />
+</p>
+
+### 🌱 **Currently Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs,solidity,python,tensorflow,aws" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+
+## 📊 **GitHub Analytics**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NiharPanda23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NiharPanda23&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharPanda23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+
+## 📈 **Contribution Graph**
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NiharPanda23&custom_title=Nihar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+<br/>
+
+<!-- Trophies Section -->
+<div align="center">
+
+## 🏆 **GitHub Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=NiharPanda23&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+<!-- Projects Showcase -->
+<div align="center">
+
+## 🚀 **Featured Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 **Project Highlights**
+
+- 🎨 **Modern Web Applications** - Built with React & Next.js
+- 📱 **Responsive Designs** - Mobile-first approach
+- ⚡ **Performance Optimized** - Fast loading, great UX  
+- 🔧 **Full Stack Solutions** - End-to-end development
+- 🎯 **User-Centered Design** - Focus on usability
+
+</td>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300px" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
+
+<!-- Repository Cards -->
+<p>
+  <a href="https://github.com/NiharPanda23">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiharPanda23&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117" alt="Repo Card" />
+  </a>
+  <a href="https://github.com/NiharPanda23">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiharPanda23&repo=YOUR_REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117" alt="Repo Card" />
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<!-- Skills Visualization -->
+<div align="center">
+
+## 🎯 **Skills & Expertise**
+
+<table>
+<tr>
+<td width="33%">
+
+### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</td>
+<td width="33%">
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+</td>
+<td width="33%">
+
+### **Tools & Others**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Connect Section -->
+<div align="center">
+
+## 🤝 **Let's Connect & Collaborate**
+
+<table>
+<tr>
+<td>
+
+### 📫 **Get In Touch**
+
+<p>
+  <a href="mailto:nihar2097@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nihar-ranjanpanda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/NiharPanda23">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+**📧 Email:** nihar2097@gmail.com  
+**💼 Open for:** Freelance Projects, Collaborations, Full-time Opportunities  
+**⚡ Response Time:** Usually within 24 hours
+
+</td>
+<td>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250px" alt="Contact Animation"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Fun Section -->
+<div align="center">
+
+## 🎨 **Fun Zone**
+
+### 💭 **Quote of the Day**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+
+### 🐍 **Watch My Contributions Get Eaten!**
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+
+</div>
+
+<br/>
+
+<!-- Metrics -->
+<div align="center">
+
+## 📈 **Profile Metrics**
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=NiharPanda23&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NiharPanda23?label=Followers&style=for-the-badge&color=F85D7F" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/NiharPanda23?label=Total%20Stars&style=for-the-badge&color=F85D7F" alt="Stars" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+
+---
+
+### 🌟 **"Code is like humor. When you have to explain it, it's bad."** 
+*– Cory House*
+
+**⭐ Don't forget to star repositories that inspire you!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" />
+
+</div>
