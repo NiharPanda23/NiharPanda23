@@ -610,14 +610,6 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 </table>
 
 <!-- Repository Cards -->
-<p>
-  <a href="https://github.com/NiharPanda23">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiharPanda23&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117" alt="Repo Card" />
-  </a>
-  <a href="https://github.com/NiharPanda23">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiharPanda23&repo=YOUR_REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117" alt="Repo Card" />
-  </a>
-</p>
 
 </div>
 
