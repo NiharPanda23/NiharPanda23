@@ -423,14 +423,13 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 
 <!-- Animated Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e8,50:b678c4,100:eaafc8&height=300&section=header&text=NIHAR%20PANDA&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=40&desc=✨%20Full%20Stack%20Developer%20|%20UI/UX%20Designer%20|%20Digital%20Creator%20✨&descSize=12&descAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e8,50:b678c4,100:eaafc8&height=300&section=header&text=NIHAR%20RANJAN%20PANDA&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=40&desc=✨%20Full%20Stack%20Developer%20|%20UI/UX%20Designer%20|%20Digital%20Creator%20✨&descSize=12&descAlignY=60" />
 </div>
 
 <!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Nihar+%F0%9F%91%8B+Welcome+to+my+digital+space!;Full+Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Building+amazing+web+experiences+with+modern+tech;Always+learning%2C+always+growing%2C+always+coding+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Nihar+%F0%9F%91%8B+Welcome+to+my+digital+space!;Full+Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Building+amazing+web+experiences+with+modern+tech;Always+learning%2C+always+growing%2C+always+coding+%F0%9F%9A%80;Passionate+about+clean+code+and+elegant+solutions;Turning+coffee+into+code%2C+one+commit+at+a+time+%E2%98%95;React+%7C+Node.js+%7C+Python+%7C+JavaScript+%7C+TypeScript;Open+source+contributor+and+collaborative+developer;Let's+build+something+incredible+together!+%F0%9F%92%BB;Exploring+the+intersection+of+design+and+functionality;Code+is+poetry%2C+and+I'm+here+to+write+epics+%F0%9F%93%9C;Currently+crafting+digital+experiences+that+matter;Innovation+through+iteration%2C+excellence+through+practice;Welcome+to+my+coding+journey+-+let's+connect!+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
-
 <br/>
 
 <!-- Beautiful About Section -->
@@ -443,7 +442,6 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 <td width="50%">
 
 ### 🚀 **Who Am I?**
-
 **👨‍💻 Name:** Nihar Panda  
 **📍 Location:** Hyderabad, India 🇮🇳  
 **💼 Role:** Full Stack Developer  
@@ -478,13 +476,12 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 </table>
 
 </div>
-
 <br/>
 
 <!-- Tech Stack with Modern Design -->
-# 💻 Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
-## 🎨 Frontend Development
+### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -496,7 +493,7 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-## ⚙️ Backend Development
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -505,7 +502,7 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -515,13 +512,13 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## ☁️ Cloud & Deployment
+### ☁️ Cloud & Deployment
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
