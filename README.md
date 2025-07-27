@@ -524,152 +524,177 @@ Feel free to reach out for collaborations, discussions, or just to say hi!
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<!-- GitHub Stats Section -->
-<div align="center">
-<br/>
-<!-- Connect Section -->
-<div align="center">
 
 <br/>
 
-<!-- GitHub Stats Section -->
+<!-- Dynamic GitHub Stats -->
 <div align="center">
 
-## 📊 **GitHub Analytics**
+## 🏆 **GitHub Achievements & Statistics**
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NiharPanda23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NiharPanda23&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-
-</div>
-
-<br/>
-
-
-<!-- Projects Showcase -->
-<div align="center">
-
-## 🚀 **Featured Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 **Project Highlights**
-
-- 🎨 **Modern Web Applications** - Built with React & Next.js
-- 📱 **Responsive Designs** - Mobile-first approach
-- ⚡ **Performance Optimized** - Fast loading, great UX  
-- 🔧 **Full Stack Solutions** - End-to-end development
-- 🎯 **User-Centered Design** - Focus on usability
-
-</td>
-<td width="50%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300px" alt="Coding Animation"/>
-
-</td>
-</tr>
-</table>
-
-<!-- Repository Cards -->
-
-</div>
-
-<br/>
-
-
-<!-- Connect Section -->
-<div align="center">
-
-## 🤝 **Let's Connect & Collaborate**
-
-<table>
-<tr>
-<td>
-
-### 📫 **Get In Touch**
-
-<p>
-  <a href="mailto:nihar2097@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nihar-ranjanpanda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/NiharPanda23">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NiharPanda23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NiharPanda23&theme=tokyonight&hide_border=true" />
 </p>
 
-**📧 Email:** nihar2097@gmail.com  
-**💼 Open for:** Freelance Projects, Collaborations, Full-time Opportunities  
-**⚡ Response Time:** Usually within 24 hours
-
-</td>
-<td>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250px" alt="Contact Animation"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- Fun Section -->
-<div align="center">
-
-## 🎨 **Fun Zone**
-
-### 💭 **Quote of the Day**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-
-### 🐍 **Watch My Contributions Get Eaten!**
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-
-</div>
-
-<br/>
-
-<!-- Metrics -->
-<div align="center">
-
-## 📈 **Profile Metrics**
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=NiharPanda23&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NiharPanda23?label=Followers&style=for-the-badge&color=F85D7F" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/NiharPanda23?label=Total%20Stars&style=for-the-badge&color=F85D7F" alt="Stars" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharPanda23&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiharPanda23&theme=tokyonight" />
 </p>
 
 </div>
 
 <br/>
 
-<!-- Footer -->
+
+<br/>
+
+<!-- Coding Activity -->
 <div align="center">
+
+## ⚡ **Current Development Focus**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 **Active Projects**
+
+Current Projects:
+
+- 🌐 E-commerce Platform with Next.js
+- 📚 Advanced React Patterns & Hooks
+- 🔗 Web3 DApp Development
+- 🤝 Open Source React Libraries
+- 💼 Personal Portfolio v3.0
+
+### 💼 **Available For**
+- 🚀 **Freelance Projects**
+- 🤝 **Collaboration Opportunities**
+- 📚 **Mentoring & Knowledge Sharing**
+- 💡 **Innovative Startup Projects**
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400px" alt="Developer Animation"/>
+
+### 📈 **2024 Goals**
+- ✅ Master Next.js 14 App Router
+- 🔄 Build 5 Full-Stack Projects
+- 📝 Write 12 Technical Blog Posts
+- 🎯 Contribute to 10 Open Source Repos
+- 🌟 Gain 1000+ GitHub Stars
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Connect and Social -->
+<div align="center">
+
+## 🌐 **Let's Connect & Build Together**
+
+<p>
+<a href="mailto:nihar2097@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/nihar-ranjanpanda/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/NiharPanda23">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://twitter.com">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+</p>
+
+<table>
+<tr>
+<td>
+
+### 💌 **Quick Contact**
+- 📧 **Email:** nihar2097@gmail.com
+- ⚡ **Response Time:** Usually within 12 hours
+- 🌍 **Timezone:** IST (UTC+5:30)
+- 💼 **Open for:** Remote opportunities worldwide
+
+</td>
+<td>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200px" alt="Contact Animation"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Daily Dev Quote -->
+<div align="center">
+
+## 💭 **Developer's Daily Inspiration**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Daily Quote" />
+
+### 🐍 **Contribution Snake Animation**
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating contributions" />
+
+</div>
+
+<br/>
+
+<!-- Profile Analytics -->
+<div align="center">
+
+## 📊 **Profile Analytics & Engagement**
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=NiharPanda23&label=Profile%20Views&color=70a5fd&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NiharPanda23?label=Followers&style=for-the-badge&color=70a5fd" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/NiharPanda23?label=Total%20Stars&style=for-the-badge&color=70a5fd" alt="Stars" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-70a5fd?style=for-the-badge" alt="Focus" />
+</p>
+
+<!-- Wakatime Stats -->
+<details>
+<summary><b>📈 Detailed Coding Statistics</b></summary>
+<br/>
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   ████████████████████████▓   89.2%
+TypeScript   ██████▓░░░░░░░░░░░░░░░░░░   25.1%
+CSS          ███▓░░░░░░░░░░░░░░░░░░░░░   12.8%
+HTML         ██▓░░░░░░░░░░░░░░░░░░░░░░    8.4%
+JSON         █▓░░░░░░░░░░░░░░░░░░░░░░░    5.2%
+```
+<!--END_SECTION:waka-->
+
+</details>
+
+</div>
+
+<br/>
 
 ---
 
-### 🌟 **"Code is like humor. When you have to explain it, it's bad."** 
-*– Cory House*
+<div align="center">
 
-**⭐ Don't forget to star repositories that inspire you!**
+### 🚀 **"First, solve the problem. Then, write the code."** 
+*– John Johnson*
+
+**⭐ If you find my work interesting, don't forget to star my repositories!**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" />
 
